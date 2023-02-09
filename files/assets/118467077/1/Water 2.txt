@@ -1,1 +1,0 @@
-{"xsize":4,"ysize":1,"zsize":11,"xloc":23,"yloc":0,"zloc":-1},{"xsize":11,"ysize":1,"zsize":6,"xloc":10.5,"yloc":0,"zloc":-3.5},{"xsize":5,"ysize":1,"zsize":9,"xloc":22.5,"yloc":0,"zloc":-2},{"xsize":16,"ysize":1,"zsize":8,"xloc":17,"yloc":0,"zloc":-2.5},{"xsize":22,"ysize":1,"zsize":3,"xloc":14,"yloc":0,"zloc":9},{"xsize":7,"ysize":1,"zsize":11,"xloc":12.5,"yloc":0,"zloc":-1}
