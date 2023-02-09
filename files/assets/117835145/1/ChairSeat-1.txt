@@ -1,0 +1,1 @@
+{"xrot":0,"yrot":0,"zrot":0,"xloc":16,"yloc":0,"zloc":-2},{"xrot":0,"yrot":180,"zrot":0,"xloc":-17,"yloc":0,"zloc":2},{"xrot":0,"yrot":-90,"zrot":0,"xloc":10.5,"yloc":0,"zloc":-3.5},{"xrot":0,"yrot":-90,"zrot":0,"xloc":-7,"yloc":0,"zloc":-3.5},{"xrot":0,"yrot":-90,"zrot":0,"xloc":12.5,"yloc":0,"zloc":0.5},{"xrot":0,"yrot":-90,"zrot":0,"xloc":-10.5,"yloc":0,"zloc":0.5}

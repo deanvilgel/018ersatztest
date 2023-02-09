@@ -1,0 +1,51 @@
+@media (min-width: 0px) {
+
+   .button {
+      display: inline-block;
+      background-color: rgba(100, 100, 100, 0.5);
+      margin-right: 10px;
+      width: 42px;
+      height: 42px;
+      vertical-align: top;
+   }
+
+    .button > img {
+      opacity: 0.5;
+   }
+
+    .button:hover {
+      background-color: rgba(100, 100, 100, 1);
+      cursor: pointer;
+   }
+
+    .button:hover > img {
+      opacity: 1;
+   }
+
+    .top-right {
+      position: absolute;
+      top: 15px;
+      right: 5px;
+   }
+
+    .logo {
+      position: absolute;
+      top: 15px;
+      left: 15px;
+   }
+
+   .logo img {
+      width: 99px;
+   }
+
+   @supports(padding: max(0px)) {
+      .logo {
+         padding-top: max(0px, env(safe-area-inset-top));
+         padding-left: max(0px, env(safe-area-inset-left));
+      }
+   }    
+    
+   .hidden {
+      display: none;
+   }
+}
